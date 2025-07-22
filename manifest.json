@@ -1,0 +1,13 @@
+{
+    "display_name": "对话完成提示",
+    "loading_order": 101,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "404nyaFound",
+    "version": "1.0.0",
+    "homePage": "https://github.com/404nyaFound",
+    "auto_update": true,
+    "assets": []
+}
